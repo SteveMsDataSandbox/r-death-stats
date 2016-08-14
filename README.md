@@ -1,6 +1,6 @@
 Taken from Kaggle US DeathRecords dataset found here - https://www.kaggle.com/cdc/mortality
 
-Some interesting notes about dying (in 2014):
+Some interesting/obvious notes about dying (in 2014):
 
 1. You're more likely to die if you're older
 2. You're most likely to die of 'natural causes' (e.g. diseases)
