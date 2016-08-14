@@ -1,9 +1,9 @@
 Taken from Kaggle US DeathRecords dataset found here - https://www.kaggle.com/cdc/mortality
 
-Some interesting notes about dying:
+Some interesting notes about dying (in 2014):
 
-1. Old people die
-2. Old people die of 'natural causes' (e.g. diseases)
+1. You're more likely to die if you're older
+2. You're most likely to die of 'natural causes' (e.g. diseases)
 3. You are very unlikely to die of homicide of any kind
 4. You are unlikely to die of an accident
 5. Men are more likely to die by homicide
