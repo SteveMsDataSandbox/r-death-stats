@@ -23,8 +23,9 @@ Manner of death frequency percentages
 
 
 Homicides by Race Frequency percentages
-                        Race       freq       percentage
-1           American Indian        290        1.723216
-2 Asian or Pacific Islander        333        1.978727
-3                     Black        8130       48.309466
-4                     White        8076       47.988591
+
+                       Race                       freq       percentage
+                       American Indian            290        1.723216
+                       Asian or Pacific Islander  333        1.978727
+                       Black                      8130       48.309466
+4                     White                       8076       47.988591
