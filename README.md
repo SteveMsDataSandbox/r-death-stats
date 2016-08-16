@@ -20,3 +20,11 @@ Manner of death frequency percentages
                     Not specified         364008  13.8374515
                     Pending investigation 3666    0.1393598
                     Suicide               43132   1.6396259
+
+
+Homicides by Race Frequency percentages
+                        Race       freq       percentage
+1           American Indian        290        1.723216
+2 Asian or Pacific Islander        333        1.978727
+3                     Black        8130       48.309466
+4                     White        8076       47.988591
