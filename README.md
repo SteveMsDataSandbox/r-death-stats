@@ -28,4 +28,4 @@ Homicides by Race Frequency percentages
                        American Indian            290        1.723216
                        Asian or Pacific Islander  333        1.978727
                        Black                      8130       48.309466
-4                     White                       8076       47.988591
+                       White                      8076       47.988591
